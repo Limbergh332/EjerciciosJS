@@ -1,3 +1,4 @@
+//9.Realizar una función recursiva que retorne como salida el resultado de la suma 1 + 3 + 5 + 7 + 9 + N
 const sum=nums=> {
 
     if (nums.length === 0) {
