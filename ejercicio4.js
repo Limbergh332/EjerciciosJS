@@ -1,3 +1,4 @@
+//4.Determine el mayor de 4 enteros
 const mayor=()=>{
 
     var arreglo  = [12,45,21,34];
