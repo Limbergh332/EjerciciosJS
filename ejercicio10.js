@@ -1,3 +1,4 @@
+//10. Realizar una función que reciba una lista y devuelva empleando recursividad otra lista de elementos pares.
 const numero=x=>{
     var y = [];
     var posicion=0;
