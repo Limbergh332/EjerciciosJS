@@ -1,3 +1,4 @@
+//11. Realizar una función que permita calcular la unión, intersección y diferencia de dos conjuntos de datos.
 const conjunto=()=>{
 let listauno = new Set([12,34,23,55,77,56,34,78,23]);
 let listados = new Set([23,42,12,45,78,66,77,23,11]);
