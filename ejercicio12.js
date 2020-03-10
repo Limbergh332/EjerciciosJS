@@ -1,3 +1,4 @@
+//12. Realizar una función que permita definir un mapa de datos y permita encontrar un valor a partir de su clave.
 const mapadedatos=x=>{
     var miMapa = new Map();
         miMapa.set("clave1", new Array("Alumno1","Apellido1", 23));
