@@ -1,3 +1,4 @@
+//7.Determina si dada una lista, ésta se encuentra ordenada. Se debe devolver verdadero o falso.
 const ordenar=()=>{
     var lista=[12,14,15,16,19,24,40,47,49];
     var tempo=0;
