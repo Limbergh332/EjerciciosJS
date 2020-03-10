@@ -1,3 +1,4 @@
+//5.Calcula la suma de una lista (arreglo) de elementos.
 const sumaarreglo=()=>{
     var arreglo=[12,23,21,23,44,23];
     var resul=0;
