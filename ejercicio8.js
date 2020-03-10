@@ -1,3 +1,4 @@
+//8.Dadas dos listas, determine si son iguales. Devolver verdadero o falso.
 const ordenar2=()=>{
     var lista=[12,14,15,16,19,24,140,47,49];
     var lista2=[12,14,15,16,19,24,140,47,49];
