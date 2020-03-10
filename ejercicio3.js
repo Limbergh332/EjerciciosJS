@@ -1,3 +1,4 @@
+//3.Dado un número entero en segundos, determinar la cantidad de horas, minutos y segundos que contiene.
 const horaminutosegundo=x=>{
     var resul="";
     
